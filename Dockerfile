@@ -1,5 +1,5 @@
 # Use an official lightweight runtime as a parent image
-FROM node:18-alpine  # Use Python, Java, or another base image if needed
+FROM node:18-alpine 
 
 # Set the working directory inside the container
 WORKDIR /app
